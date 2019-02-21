@@ -1,8 +1,2 @@
-/vol/medic02/users/ag6516/image_text_modelling/data
-/vol/medic02/users/ag6516/image_text_modelling/blvc_googlenet.pkl
-/vol/medic02/users/ag6516/image_text_modelling/chestx_with_cnn_features.pkl
-/vol/medic02/users/ag6516/image_text_modelling/lstm_chestx_trained.pkl
-/vol/medic02/users/ag6516/image_text_modelling/not_needed
-/vol/medic02/users/ag6516/image_text_modelling/all_reports_train_test_split.json
-
-jpeg_images
+jpeg_images/
+weights/
